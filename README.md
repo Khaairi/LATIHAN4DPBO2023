@@ -1,5 +1,5 @@
 # LATIHAN4DPBO2023
-### Saya Mochamad Khaairi NIM 2106416 mengerjakan Latihan 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Mochamad Khaairi NIM 2106416 mengerjakan Latihan 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Deskripsi Tugas
 Buatlah program berbasis OOP menggunakan bahasa pemrograman C++ dan Python  yang mengimplementasikan konsep inheritance, composition, dan array of object pada kelas-kelas tersebut:
@@ -66,3 +66,8 @@ inputan dilakukan secara manual / hardcode, input berupa instansiasi object dari
 Pada program python
 
 ![Screenshot - Python](https://user-images.githubusercontent.com/100757455/222145981-3c0383d2-eda5-49ce-8b5f-28a21961b820.png)
+
+Pada program CPP
+
+![Screenshot - CPP (1)](https://user-images.githubusercontent.com/100757455/222944199-3799b374-3aa4-40ef-a7b5-93a1a4e3930f.png)
+![Screenshot - CPP (2)](https://user-images.githubusercontent.com/100757455/222944205-eb33275d-9be3-401d-a3c2-c7fb0b003f65.png)
